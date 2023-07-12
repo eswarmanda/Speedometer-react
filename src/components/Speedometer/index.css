@@ -1,0 +1,41 @@
+.container {
+  background-color: #07080c;
+  padding: 20px;
+  text-align: center;
+  height: 100vh;
+}
+.heading {
+  font-size: 30px;
+  color: #ffffff;
+}
+.height {
+  height: 200px;
+}
+.description {
+  font-size: 25px;
+  color: #ffffff;
+}
+.limit {
+  font-size: 15px;
+  color: #ffffff;
+}
+.b1 {
+    background-color: #0b69ff;
+    height: 30px;
+    width: 100px;
+    color: #ffffff;
+    border-width: 0px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.b2 {
+    background-color: transparent;
+    height: 30px;
+    width: 100px;
+    color: #ffffff;
+    border-width: 1px;
+    margin: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: azure;
+}
